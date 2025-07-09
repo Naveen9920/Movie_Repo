@@ -15,7 +15,7 @@ backend/.env.example--
 OMDB_API_KEY=your_omdb_key
 MONGODB_URI=mongodb+srv://your-mongo-uri
 npm run dev
-** FrontEnd**
+** FrontEnd** 
 cd frontend
 npm install
 cp .env.example .env   # Add BACKEND_URL as your Render API URL
