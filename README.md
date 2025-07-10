@@ -1,4 +1,4 @@
-** Full-stack movie analysis dashboard using React, Node.js, Express, MongoDB, and OMDb API(MERN STACK).
+** Full-stack movie analysis dashboard using React, Node.js, Express, MongoDB, and OMDb API(MERN STACK). 
 ** Features:
 Search movies by title
 Stats dashboard: average ratings, genres, runtime
